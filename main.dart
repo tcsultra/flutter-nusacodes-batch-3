@@ -155,3 +155,5 @@ int luasPanjang({
 }) {
   return (panjang ?? 1) * (lebar ?? 1);
 }
+
+// tes comit peserta An. Syafrudin ode
